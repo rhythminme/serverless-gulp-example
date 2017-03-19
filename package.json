@@ -4,6 +4,7 @@
   "description": "Demonstrates the usage of serverless-gulp to automate a build pipeline",
   "main": "index.js",
   "scripts": {
+    "postinstall": "gulp setup",
     "test": "npm test"
   },
   "repository": {
