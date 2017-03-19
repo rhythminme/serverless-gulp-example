@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/rhythminme/serverless-gulp-example#readme",
   "devDependencies": {
+    "gulp-exec": "^2.1.3",
     "serverless-gulp": "^1.0.1"
   }
 }
