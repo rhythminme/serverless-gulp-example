@@ -1,0 +1,26 @@
+{
+  "name": "serverless-gulp-example",
+  "version": "1.0.0",
+  "description": "Demonstrates the usage of serverless-gulp to automate a build pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhythminme/serverless-gulp-example.git"
+  },
+  "keywords": [
+    "serverless",
+    "gulp"
+  ],
+  "author": "rhythmin.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhythminme/serverless-gulp-example/issues"
+  },
+  "homepage": "https://github.com/rhythminme/serverless-gulp-example#readme",
+  "devDependencies": {
+    "serverless-gulp": "^1.0.1"
+  }
+}
